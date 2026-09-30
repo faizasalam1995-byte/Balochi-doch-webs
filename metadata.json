@@ -1,0 +1,6 @@
+{
+  "name": "Balochi Doch Embroidery",
+  "description": "Handcrafted Traditional Balochi Dresses, Doch needlework, mirror work, and authentic Baloch artisan collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
